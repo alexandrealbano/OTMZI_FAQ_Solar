@@ -1,0 +1,14 @@
+site_name: Central de Ajuda - Energia Solar
+theme:
+  name: material
+  palette:
+    primary: amber # Cor que lembra energia solar
+    scheme: preference # Alterna entre modo claro/escuro baseado no sistema do cliente
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Início: index.md
+  - 📠 Inversor e Wi-Fi:
+    - Troquei de Roteador: inversor/wifi.md
