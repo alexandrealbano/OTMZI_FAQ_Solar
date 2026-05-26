@@ -1,14 +1,28 @@
-site_name: Central de Ajuda - Energia Solar
+site_name: Central de Ajuda - OTMZI Solar
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
-    primary: amber # Cor que lembra energia solar
-    scheme: preference # Alterna entre modo claro/escuro baseado no sistema do cliente
+    # Configuração para o modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue        # Muda o topo amarelo para Azul
+      accent: blue        # Cor dos links e detalhes
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo escuro
+
+    # Configuração para o modo escuro (mantém o visual confortável à noite)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo claro
+
   features:
     - search.suggest
     - search.highlight
-
-nav:
-  - Início: index.md
-  - 📠 Inversor e Wi-Fi:
-    - Troquei de Roteador: inversor/wifi.md
+    - navigation.tabs      # Se seu menu crescer, ele cria abas bonitas no topo
