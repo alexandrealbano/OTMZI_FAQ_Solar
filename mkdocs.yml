@@ -1,4 +1,6 @@
 site_name: Central de Ajuda - OTMZI Solar
+site_url: https://faqsolar.otmzi.com
+
 theme:
   name: material
   logo: assets/logo.png
