@@ -19,6 +19,7 @@ Encontre respostas rápidas para as dúvidas mais frequentes sobre o seu sistema
 * [Por que minha conta de energia não veio "Zero"?](fatura/conta-nao-zerou.md)
 * [Como funcionam os Créditos de Energia e sua validade](fatura/creditos.md)
 * [Por que a leitura de kWh do Aplicativo é diferente da Conta?](fatura/diferenca-leitura.md)
+* [Minha conta veio alta, o que verificar antes de abrir chamado?](fatura/conta-alta.md)
 
 ### 🧼 Manutenção e Cuidados
 * [Como e quando realizar a limpeza dos painéis solares](manutencao/limpeza.md)
