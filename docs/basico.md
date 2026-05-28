@@ -16,7 +16,7 @@ A regra de ouro é simples: **a energia solar sempre alimenta primeiro os aparel
 
 O seu inversor funciona perfeitamente sem internet (ele continua gerando energia para a sua casa e mandando o excedente para a rua). Porém, **sem internet, você não consegue ver os gráficos no aplicativo**.
 
-O inversor envia os dados de geração para a plataforma de monitoramento (seja Growatt, FoxESS ou Canadian) usando o sinal de Wi-Fi do roteador que fica mais próximo dele.
+O inversor envia os dados de geração para a plataforma de monitoramento usando o sinal de Wi-Fi do roteador que fica mais próximo dele.
 
 ### Pequenos Problemas de Rede e Como Resolver
 Se o seu aplicativo parar de atualizar ou mostrar o inversor como "Offline", 90% das vezes é uma instabilidade no sinal do seu Wi-Fi.
