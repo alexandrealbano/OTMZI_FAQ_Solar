@@ -9,8 +9,8 @@ theme:
     # Configuração para o modo claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue        # Muda o topo amarelo para Azul
-      accent: blue        # Cor dos links e detalhes
+      primary: indigo        # Muda o topo amarelo para Azul
+      accent: indigo        # Cor dos links e detalhes
       toggle:
         icon: material/weather-sunny
         name: Mudar para modo escuro
@@ -18,8 +18,8 @@ theme:
     # Configuração para o modo escuro (mantém o visual confortável à noite)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Mudar para modo claro
@@ -28,3 +28,14 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.tabs      # Se seu menu crescer, ele cria abas bonitas no topo
+
+    nav:
+  - 🏠 Início: index.md
+  - 📠 Inversor e Monitoramento:
+    - 🌐 Troquei de Roteador / Wi-Fi: inversor/wifi.md
+    - 🟢 Significado das Luzes (LEDs): inversor/leds.md
+  - 🧾 Fatura e Créditos:
+    - 💰 Por que a conta não veio "Zero"?: fatura/conta-nao-zerou.md
+    - 📊 Como entender os Créditos de Energia: fatura/creditos.md
+  - 🧼 Manutenção e Cuidados:
+    - 🧼 Como e quando limpar os painéis: manutencao/limpeza.md
