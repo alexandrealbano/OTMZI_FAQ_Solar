@@ -1,6 +1,7 @@
 site_name: Central de Ajuda - OTMZI Solar
 site_url: https://faqsolar.otmzi.com
-copyright: Otimizzi Soluções © 2026 - Cruz, Ceará  # <-- Adicione isso solto na raiz
+copyright: Otimizzi Soluções © 2026 - Cruz, Ceará
+locale: pt-BR
 
 theme:
   name: material
