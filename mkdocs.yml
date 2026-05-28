@@ -3,6 +3,7 @@ site_url: https://faqsolar.otmzi.com
 copyright: Otimizzi Soluções © 2026 - Cruz, Ceará
 locale: pt-BR
 
+
 theme:
   name: material
   custom_dir: overrides
@@ -38,8 +39,9 @@ nav:
   - 📠 Inversor e Monitoramento:
     - 🌐 Troquei de Roteador / Wi-Fi: inversor/wifi.md
     - 🟢 Significado das Luzes (LEDs): inversor/leds.md
-  - 🧾 Fatura e Créditos:
+- 🧾 Fatura e Créditos:
     - 💰 Por que a conta não veio "Zero"?: fatura/conta-nao-zerou.md
     - 📊 Como entender os Créditos de Energia: fatura/creditos.md
+    - ⚖️ Diferença entre o Aplicativo e a Conta: fatura/diferenca-leitura.md
   - 🧼 Manutenção e Cuidados:
     - 🧼 Como e quando limpar os painéis: manutencao/limpeza.md
