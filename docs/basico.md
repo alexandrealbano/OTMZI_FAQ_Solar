@@ -2,14 +2,15 @@
 
 Parabéns pelo seu sistema de energia solar! Para aproveitar ao máximo e entender o que está acontecendo no seu telhado e no seu aplicativo, preparamos este resumo com os conceitos mais importantes.
 
-## 1. O Autoconsumo Local (Gera e Consome ao mesmo tempo)
+## 1. O Autoconsumo Local (Gerar e Consumir ao mesmo tempo)
 
-A energia gerada pelas placas solares desce para o seu inversor e vai direto para o quadro de luz da sua casa ou empresa. 
+A energia captada pelas placas solares desce para o seu inversor e vai direto para o quadro de força da sua casa ou empresa. 
 
-A regra é simples: **a energia solar sempre atende o que está ligado no momento primeiro.**
-* Se você está gerando muita energia e tem aparelhos ligados (ar-condicionado, geladeira, computadores), essa energia é consumida **imediatamente** sem nem passar pelo medidor da rua. Isso é o **Autoconsumo Local**.
-* Apenas o **excedente** (a energia que sobrou e você não usou na hora) vai para a rua e vira créditos.
-* À noite, como não há sol, seus aparelhos vão puxar a energia da concessionária normalmente.
+A regra de ouro é simples: **a energia solar sempre alimenta primeiro os aparelhos que estão ligados no momento.** Entenda o ciclo:
+
+* ☀️ **Consumo Imediato (Autoconsumo):** Durante o dia, se o ar-condicionado, a geladeira ou os computadores estiverem ligados, eles usam a energia das placas na mesma hora, sem que ela passe pelo relógio da rua. 
+* 🔄 **O Excedente (Créditos):** Se o sistema gerar mais energia do que o local está consumindo naquele momento, essa "sobra" vai para a rede da concessionária e se transforma em créditos para você.
+* 🌙 **Durante a Noite:** Como não há sol, o sistema pausa. Seus aparelhos passam a puxar a energia da rua normalmente. No fim do mês, a concessionária abate o que você usou à noite usando os créditos que você enviou durante o dia.
 
 ## 2. A Importância da Internet e do Roteador
 
