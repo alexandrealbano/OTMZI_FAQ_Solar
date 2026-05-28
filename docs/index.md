@@ -6,6 +6,7 @@ Encontre respostas rápidas para as dúvidas mais frequentes sobre o seu sistema
 
 ### 📖 Primeiros Passos
 * [O Básico: Autoconsumo e como o sistema distribui a energia](basico.md)
+* [O sistema funciona quando falta energia na rua?](falta-energia.md)
 
 ### ☀️ Clima e Desempenho
 * [Por que a geração de energia cai no inverno ou em épocas de chuva?](clima/queda-inverno.md)
