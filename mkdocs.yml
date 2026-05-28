@@ -33,15 +33,22 @@ theme:
     - search.highlight
     - navigation.tabs      # Se seu menu crescer, ele cria abas bonitas no topo
 
+  i18n:
+    toc:
+      title: Nesta página
+
 nav:
   - 🏠 Início: index.md
-  - 📖 O Básico do Sistema: basico.md
+  - 📖 Primeiros Passos: 
+    - O Básico do Sistema: basico.md
+  - ☀️ Clima e Desempenho:
+    - 🌧️ Por que a geração cai no inverno/chuvas?: clima/queda-inverno.md
   - 📠 Inversor e Monitoramento:
     - 🌐 Troquei de Roteador / Wi-Fi: inversor/wifi.md
     - 🟢 Significado das Luzes (LEDs): inversor/leds.md
   - 🧾 Fatura e Créditos:
     - 💰 Por que a conta não veio "Zero"?: fatura/conta-nao-zerou.md
     - 📊 Como entender os Créditos de Energia: fatura/creditos.md
-    - ⚖️ Diferença entre o Aplicativo e a Conta: fatura/diferenca-leitura.md
+    - ⚖️ Diferença entre Aplicativo e Conta: fatura/diferenca-leitura.md
   - 🧼 Manutenção e Cuidados:
     - 🧼 Como e quando limpar os painéis: manutencao/limpeza.md
