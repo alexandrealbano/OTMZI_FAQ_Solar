@@ -4,9 +4,10 @@ Essa é uma das principais dúvidas quando o sistema começa a funcionar. É imp
 
 ## 1. Custo de Disponibilidade (Taxa Mínima)
 Mesmo que você gere mais energia do que consumiu, a concessionária cobra uma taxa mínima para manter a sua estrutura conectada à rede elétrica. Esse valor depende do seu tipo de ligação:
-* **Monofásico:** Equivalente a 30 kWh
-* **Bifásico:** Equivalente a 50 kWh
-* **Trifásico:** Equivalente a 100 kWh
+
+- **Monofásico:** Equivalente a 30 kWh
+- **Bifásico:** Equivalente a 50 kWh
+- **Trifásico:** Equivalente a 100 kWh
 
 ## 2. Taxa de Iluminação Pública (COSIP)
 É um tributo municipal cobrado diretamente na fatura de energia para custear a iluminação das ruas. O sistema solar não abate impostos municipais de iluminação.
