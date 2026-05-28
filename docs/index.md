@@ -7,13 +7,17 @@ Encontre respostas rápidas para as dúvidas mais frequentes sobre o seu sistema
 ### 📖 Primeiros Passos
 * [O Básico: Autoconsumo e como o sistema distribui a energia](basico.md)
 
+### ☀️ Clima e Desempenho
+* [Por que a geração de energia cai no inverno ou em épocas de chuva?](clima/queda-inverno.md)
+
 ### 📠 Inversor e Monitoramento
 * [O aplicativo parou: Troquei de Roteador ou Senha do Wi-Fi](inversor/wifi.md)
-* [Luz vermelha ou piscando? Veja o significado dos LEDs](inversor/leds.md)
+* [Luz vermelha ou piscando? Veja o significado das luzes (LEDs)](inversor/leds.md)
 
 ### 🧾 Fatura da Concessionária e Créditos
 * [Por que minha conta de energia não veio "Zero"?](fatura/conta-nao-zerou.md)
 * [Como funcionam os Créditos de Energia e sua validade](fatura/creditos.md)
+* [Por que a leitura de kWh do Aplicativo é diferente da Conta?](fatura/diferenca-leitura.md)
 
 ### 🧼 Manutenção e Cuidados
 * [Como e quando realizar a limpeza dos painéis solares](manutencao/limpeza.md)
