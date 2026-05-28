@@ -40,7 +40,7 @@ theme:
 nav:
   - 🏠 Início: index.md
   - 📖 Primeiros Passos: 
-    - O Básico do Sistema: basico.md
+    - 📖 O Básico do Sistema: basico.md
     - 🔌 Funciona sem energia da rua?: falta-energia.md
   - ☀️ Clima e Desempenho:
     - 🌧️ Por que a geração cai no inverno/chuvas?: clima/queda-inverno.md

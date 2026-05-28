@@ -17,19 +17,22 @@ Quando o seu sistema solar gera mais energia do que a sua casa ou empresa está 
 Os créditos de energia têm validade de **60 meses (5 anos)** a partir do mês em que foram gerados. Se você gerar muita energia no verão, pode acumular esses créditos para compensar meses mais nublados ou de maior consumo no inverno.
 
 ### 2. Posso transferir meus créditos para outra pessoa ou outro endereço?
+
 **Sim, desde que a outra conta esteja sob o mesmo CPF ou CNPJ** (ou em casos específicos de cooperativas/consórcios) e receba energia da **mesma concessionária**. Isso é chamado de *Autoconsumo Remoto*.
 
-* **Unidade Consumidora Principal:** É onde o sistema está instalado (gera os créditos).
-* **Unidade Beneficiária:** É o outro imóvel (sítio, apartamento, segunda loja) que vai receber a sobra dos créditos.
+- **Unidade Consumidora Principal:** É onde o sistema está instalado (gera os créditos).
+- **Unidade Beneficiária:** É o outro imóvel (sítio, apartamento, segunda loja) que vai receber a sobra dos créditos.
 
 > ⚠️ **Aviso:** A porcentagem de divisão dos créditos entre as suas propriedades deve ser informada e homologada junto à concessionária. Se quiser alterar as porcentagens de envio, fale com a nossa equipe.
 
 ### 3. Onde vejo o meu saldo de créditos na conta?
+
 Na sua fatura de energia, geralmente na segunda página ou próximo ao histórico de consumo, haverá um campo chamado **"Demonstrativo de Saldo de Histórico de Créditos"**. Lá constará:
-* O saldo do mês anterior.
-* O quanto foi gerado/injetado no mês atual.
-* O quanto foi utilizado.
-* O saldo atualizado disponível.
+
+- O saldo do mês anterior.
+- O quanto foi gerado/injetado no mês atual.
+- O quanto foi utilizado.
+- O saldo atualizado disponível.
 
 ---
 > 💡 **Fique tranquilo:** O aplicativo do seu inversor mostra a **geração total das placas**, enquanto a conta de energia mostra apenas a **energia que sobrou (injetada)**. É perfeitamente normal os números do aplicativo serem maiores do que os que aparecem na fatura.
