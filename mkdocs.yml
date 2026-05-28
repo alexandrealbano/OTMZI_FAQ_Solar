@@ -9,7 +9,7 @@ theme:
     # Configuração para o modo claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: grey        
+      primary: blue        
       accent: indigo        # Cor dos links e detalhes
       toggle:
         icon: material/weather-sunny
@@ -18,7 +18,7 @@ theme:
     # Configuração para o modo escuro (mantém o visual confortável à noite)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      primary: blue
       accent: indigo
       toggle:
         icon: material/weather-night
@@ -31,6 +31,7 @@ theme:
 
 nav:
   - 🏠 Início: index.md
+  - 📖 O Básico do Sistema: basico.md
   - 📠 Inversor e Monitoramento:
     - 🌐 Troquei de Roteador / Wi-Fi: inversor/wifi.md
     - 🟢 Significado das Luzes (LEDs): inversor/leds.md
