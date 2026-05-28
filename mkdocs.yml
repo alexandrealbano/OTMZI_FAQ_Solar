@@ -29,7 +29,7 @@ theme:
     - search.highlight
     - navigation.tabs      # Se seu menu crescer, ele cria abas bonitas no topo
 
-    nav:
+nav:
   - 🏠 Início: index.md
   - 📠 Inversor e Monitoramento:
     - 🌐 Troquei de Roteador / Wi-Fi: inversor/wifi.md
